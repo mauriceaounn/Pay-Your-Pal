@@ -5,7 +5,7 @@ Pay Your Pal is an android app designed to facilitate group payments and expense
 The app allows users to create and manage groups for making payments, with the option to view and manage existing groups through the "Groups" button and create new groups through the "Create New Group" button. 
 Additionally, the app includes a share button that enables users to share the app with others. 
 
-Disclaimer: This app is a university project made by me and my colleagues and I don’t claim any responsibility for any errors or misfunctions on your end! 
+Disclaimer: This app is a university project made by me and my colleagues and I don’t claim any responsibility for any errors or malfunctions on your end! 
 
 Screenshots:
 
