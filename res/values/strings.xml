@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pay Your Pal</string>
+
+    <string-array name="currencySymbols">
+        <item>LBP-(L.L)</item>
+        <item>USD-($)</item>
+        <item>EUR-(€)</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="copyright">Copyright © 2023 PayYourPal</string>
+    <string name="developer">Designed &amp; Developed By Karim Hammoud</string>
+</resources>
